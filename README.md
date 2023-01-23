@@ -1,4 +1,4 @@
 ## taz
-#### targz-based package manager 
+#### systemless package manager 
 ##### *glorified tar -xvf*
 --------------

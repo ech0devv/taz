@@ -1,2 +1,4 @@
-# taz - targz application inZtaller
-##### glorified tar -xvf
+## taz
+#### targz-based package manager 
+##### *glorified tar -xvf*
+--------------

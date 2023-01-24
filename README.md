@@ -1,12 +1,15 @@
 ## taz
-#### systemless package manager 
-##### *glorified tar -xvf*
+#### systemless package manager that runs anywhere 
 --------------
 ### Installation
-Download `taz.sh` using any preferred method, and run:
+##### Download `taz.sh` using any preferred method, and run:
 
-  `./taz.sh i taz`
+  `sudo ./taz.sh i`
 
-###### This will install taz onto your system and set everything up.
+######  OR *(if using doas)*
+
+  `doas ./taz.sh I`
+
+##### This will install taz onto your system and set everything up.
 ---------------
 ### Usage

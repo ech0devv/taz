@@ -1,5 +1,5 @@
 ## taz
-#### systemless package manager that runs anywhere 
+#### lightweight,systemless package manager that runs anywhere 
 --------------
 ### Installation
 ##### Download `taz.sh` using any preferred method, and run:
